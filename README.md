@@ -1,3 +1,10 @@
+## [SeaeeesSan/SimpleFolderIcon](https://github.com/SeaeeesSan/SimpleFolderIcon)'s fork version
+It's a fork version with icons added for personal use
+
+```
+https://github.com/Pac333/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
+```
+
 # SimpleFolderIcon
 
 [![GitHub all releases](https://img.shields.io/github/downloads/SeaeeesSan/SimpleFolderIcon/total)](https://github.com/SeaeeesSan/SimpleFolderIcon/releases)
@@ -56,7 +63,7 @@ Unity2019.4 or later
 - Window > Package Manager > Add package from git URL...
 
 ```
-https://github.com/Pac333/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
+https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
 ```
 
 ### Install via OpenUPM
