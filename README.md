@@ -56,7 +56,7 @@ Unity2019.4 or later
 - Window > Package Manager > Add package from git URL...
 
 ```
-https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
+https://github.com/Pac333/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
 ```
 
 ### Install via OpenUPM
